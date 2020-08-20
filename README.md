@@ -16,7 +16,7 @@ Useful for those annoying mobile bars. Looking at you, Apple.
 ## On Resize:
 You may want to debounce this
 
-`window.addEventListener('click', () => CalculateTrueHeight());`
+`window.addEventListener('resize', () => CalculateTrueHeight());`
 
 ## Usage in CSS:
 ```bash
