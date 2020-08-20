@@ -5,7 +5,7 @@ A small, basic function, to calculate the true height of your window, and create
 Useful for those annoying mobile bars.
 
 ## Import:
-`import CalculateTrueHeight from "./Utils/CalculateTrueHeight";`
+`import CalculateTrueHeight from "CalculateTrueHeight";`
 
 ## Usage:
 `CalculateTrueHeight();`
