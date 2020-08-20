@@ -8,7 +8,7 @@ Useful for those annoying mobile bars.
 `npm install @mattgh9152/calculatetrueheight`
 
 ## Import:
-`import CalculateTrueHeight from "CalculateTrueHeight";`
+`import CalculateTrueHeight from "@mattgh9152/calculatetrueheight"`
 
 ## Usage:
 `CalculateTrueHeight();`
