@@ -4,6 +4,9 @@ A small, basic function, to calculate the true height of your window, and create
 
 Useful for those annoying mobile bars.
 
+## Install:
+`npm install @mattgh9152/calculatetrueheight`
+
 ## Import:
 `import CalculateTrueHeight from "CalculateTrueHeight";`
 
