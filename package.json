@@ -1,0 +1,17 @@
+{
+	"name": "@mattgh9152/calculatetrueheight",
+	"version": "3.0.0",
+	"description": "A small, basic function, to calculate the true height of your window, and create a CSS variable which represents a true 100vh.",
+	"licence": "MIT",
+	"respository": "mattgh91/calculatetrueheight",
+	"main": "index.js",
+	"keywords": [
+		"npm",
+		"package",
+		"height",
+		"vh",
+		"calculate",
+		"true",
+		"height"
+	]
+}
