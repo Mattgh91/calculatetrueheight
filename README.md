@@ -24,3 +24,4 @@ height: 100vh; /**  Fallback for browsers that do not support Custom Properties 
 height: calc(var(--vh, 1vh) * 100);
 ```
 
+[Npm Repo](https://www.npmjs.com/package/@mattgh9152/calculatetrueheight) & [Github Page](https://github.com/Mattgh91/calculatetrueheight)
