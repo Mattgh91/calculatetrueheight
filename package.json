@@ -1,6 +1,6 @@
 {
 	"name": "@mattgh9152/calculatetrueheight",
-	"version": "6.0.0",
+	"version": "7.0.0",
 	"description": "A small, basic function, to calculate the true height of your window, and create a CSS variable which represents a true 100vh.",
 	"licence": "MIT",
 	"respository": "mattgh91/calculatetrueheight",
